@@ -2,4 +2,6 @@ Branch MASTER
 
 Este um arquivo de teste
 
-Este é o branch Master
+ESTE É O BRANCH MASTER
+
+Vou usar o comando diff para verificar o que foi alterado DENTRO do arquivo !
